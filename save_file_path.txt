@@ -1,0 +1,3 @@
+open|D:/Workspace/XInc/Pano_Cube_Pano_convert/media/sample_2
+save|D:/Workspace/XInc/Pano_Cube_Pano_convert/media/save2
+mask|D:/Workspace/XInc/Pano_Cube_Pano_convert/media/mask/mask_full_2_2.png
