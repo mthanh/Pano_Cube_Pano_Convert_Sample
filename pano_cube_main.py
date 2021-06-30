@@ -176,7 +176,7 @@ class Ui(QtWidgets.QMainWindow):
             self.resize_event_ignoge_first_time = False; 
             return   
         
-        self.do_resize()
+        self.do_resize_window()
               
          
     def switch_mode_page(self): #change mode
