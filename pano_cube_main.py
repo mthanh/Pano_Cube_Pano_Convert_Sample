@@ -171,13 +171,13 @@ class Ui(QtWidgets.QMainWindow):
 
         return
     resize_event_ignoge_first_time = True;
-    def resizeEvent(self, e: QResizeEvent) -> None:
+    def resizeEvent(self, event):
         if self.resize_event_ignoge_first_time == True :
             self.resize_event_ignoge_first_time = False; 
             return   
         
-        self.do_resize_window_window()
-            
+        self.do_resize_window()
+              
          
     def switch_mode_page(self): #change mode
         Qt_support_Func.GUI_ALARM_(self.pushButton_mode_change, self.COLOR_BUTTON_GRAY)
@@ -699,4 +699,4 @@ window = Ui()
 # window = App("D:/Workspace/QT_creator/pano_cube_inpa/pano_cube_inpa.ui")
 
 
-app.exec()
+app.exec_()
