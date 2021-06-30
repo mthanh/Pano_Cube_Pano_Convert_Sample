@@ -9,7 +9,6 @@ https://www.python.org/downloads/
 python --version
 python3 --version
 ```
-![alt text](assert/Screen Shot 2021-06-30 at 23.18.55.png)
 => use python3
 
 ## 2. Install pip3
