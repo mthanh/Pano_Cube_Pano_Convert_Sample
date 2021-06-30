@@ -1,11 +1,15 @@
 #ignore list
 
+#Mac
+.DS_Store
+
 
 #eclipse project
 .project
 .pydevproject
 __pycache__
 
+#save image
 media/save1/MODE1
 media/save1/MODE2
 media/save2/MODE1
