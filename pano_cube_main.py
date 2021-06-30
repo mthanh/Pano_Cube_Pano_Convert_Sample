@@ -148,7 +148,7 @@ class Ui(QtWidgets.QMainWindow):
                        
         self.show()
     
-    def do_resize_window(self):
+    def do_resize(self):
         # thinning small -> 6, thinning big -> 9
         # PANO_CUBE -> 6*3+ 9*2 = 36, 6*2+9*x = 30
         # PANO_CUBE_PANO -> 6 * 1 + 9*" = 24
@@ -171,13 +171,13 @@ class Ui(QtWidgets.QMainWindow):
 
         return
     resize_event_ignoge_first_time = True;
-    def resizeEvent(self, e: QResizeEvent) -> None:
+    def resizeEvent(self, event):
         if self.resize_event_ignoge_first_time == True :
             self.resize_event_ignoge_first_time = False; 
             return   
         
-        self.do_resize_window_window()
-            
+        self.do_resize()
+              
          
     def switch_mode_page(self): #change mode
         Qt_support_Func.GUI_ALARM_(self.pushButton_mode_change, self.COLOR_BUTTON_GRAY)
@@ -699,4 +699,4 @@ window = Ui()
 # window = App("D:/Workspace/QT_creator/pano_cube_inpa/pano_cube_inpa.ui")
 
 
-app.exec()
+app.exec_()
