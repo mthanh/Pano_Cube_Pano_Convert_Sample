@@ -20,13 +20,13 @@ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3 get-pip.py
 ```
 
-
 ![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/pip_version.png) 
 
 - Check pip3 version
 ```sh
 pip3 --version
 ```
+
 ## 3. Install pakages from requirement.txt 
 ```sh
 pip3 install -r requirements.txt
@@ -36,5 +36,4 @@ pip3 install -r requirements.txt
 ```sh
 python3 pano_cube_main.py
 ```
-
 ![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode1_click.png) 
