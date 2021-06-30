@@ -36,3 +36,5 @@ pip3 install -r requirements.txt
 ```sh
 python3 pano_cube_main.py
 ```
+
+![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode1_click.png) 
