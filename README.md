@@ -45,6 +45,7 @@ python3 pano_cube_main.py
 
 ## 1. choose open folder, save folder and mask_image by press "open, save, mask"
 
+## 2. Mode 1 : Pano -> Cube
 ![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode1_click.png) 
 
 ![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode1_result.png) 
@@ -52,6 +53,8 @@ python3 pano_cube_main.py
 ![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode1_cube_mode.png)
 
 ![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode1_cube_only.png) 
+
+## 3. Mode 2 : Pano -> Cube -> Pano
 
 ![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode2_click.png) 
 
