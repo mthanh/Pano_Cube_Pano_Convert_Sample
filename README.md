@@ -9,7 +9,8 @@ https://www.python.org/downloads/
 python --version
 python3 --version
 ```
-![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/Screen%20Shot%202021-06-30%20at%2023.18.55.png) 
+![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/python_version.png) 
+
 => use python3
 
 ## 2. Install pip3
@@ -18,6 +19,9 @@ python3 --version
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python3 get-pip.py
 ```
+
+
+![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/pip_version.png) 
 
 - Check pip3 version
 ```sh
