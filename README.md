@@ -1,9 +1,10 @@
 # Pano_Cube_Pano_Convert
 
 # 1. Install Python3.x
+Download here
 https://www.python.org/downloads/
 
---> Check
+〇 Check
 python --version
 python3 --version
 
