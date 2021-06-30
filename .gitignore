@@ -1,12 +1,12 @@
 #ignore list
 
 #Mac
-.DS_Store
+*.DS_Store
 
 
 #eclipse project
-.project
-.pydevproject
+*.project
+*.pydevproject
 __pycache__
 
 #save image
