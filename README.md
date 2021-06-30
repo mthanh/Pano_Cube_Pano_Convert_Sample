@@ -36,4 +36,26 @@ pip3 install -r requirements.txt
 ```sh
 python3 pano_cube_main.py
 ```
+![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode1_window.png) 
+
+
+------------------
+
+# Running
+open : choose Panorama images saving folder
+save : choose save_folder
+mask : choose mask image for doing inpaintng
+
 ![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode1_click.png) 
+
+![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode1_result.png) 
+
+![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode1_cube_mode.png) 
+
+![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode2_click.png) 
+
+![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode2_result.png) 
+
+
+
+
