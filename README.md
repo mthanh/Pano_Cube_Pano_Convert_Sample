@@ -42,20 +42,24 @@ python3 pano_cube_main.py
 ------------------
 
 # Running
-open : choose Panorama images saving folder
-save : choose save_folder
-mask : choose mask image for doing inpaintng
+
+## 1. choose open folder, save folder and mask_image by press "open, save, mask"
 
 ![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode1_click.png) 
 
 ![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode1_result.png) 
 
-![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode1_cube_mode.png) 
+![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode1_cube_mode.png)
+
+![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode1_cube_only.png) 
 
 ![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode2_click.png) 
 
 ![Alt text](https://github.com/Mthanh/Pano_Cube_Pano_Convert/blob/master/assert/mode2_result.png) 
 
+# Result
+
+After press run or running, output image will be saved in save path.
 
 
 
