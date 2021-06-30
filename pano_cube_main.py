@@ -148,7 +148,7 @@ class Ui(QtWidgets.QMainWindow):
                        
         self.show()
     
-    def do_resize(self):
+    def do_resize_window(self):
         # thinning small -> 6, thinning big -> 9
         # PANO_CUBE -> 6*3+ 9*2 = 36, 6*2+9*x = 30
         # PANO_CUBE_PANO -> 6 * 1 + 9*" = 24
