@@ -2,12 +2,18 @@
 
 #Mac
 *.DS_Store
-
+.DS_Store
 
 #eclipse project
 *.project
+project
 *.pydevproject
+.pydevproject
+
+
 __pycache__
+
+
 
 #save image
 media/save1/MODE1
