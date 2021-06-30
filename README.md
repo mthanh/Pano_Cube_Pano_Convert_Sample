@@ -12,7 +12,7 @@ python3 --version
 
 => use python3
 
-## 2. install pip3
+## 2. Install pip3
 - Install
 ```sh
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
@@ -23,7 +23,7 @@ python3 get-pip.py
 ```sh
 pip3 --version
 ```
-## 3. Install pakages in requirement.txt 
+## 3. Install pakages from requirement.txt 
 ```sh
 pip3 install -r requirements.txt
 ```
