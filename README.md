@@ -64,5 +64,8 @@ python3 pano_cube_main.py
 
 After press run or running, output image will be saved in save path.
 
+--------
+
+# License
 
 
