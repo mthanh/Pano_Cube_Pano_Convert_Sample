@@ -1,7 +1,0 @@
-#ignore list
-
-
-#eclipse project
-.project
-.pydevproject
-__pycache__
